@@ -1,0 +1,324 @@
+[
+  {
+    "id": "tyla",
+    "name": "Tyla",
+    "verified": true,
+    "avatar": "https://i.pravatar.cc/120?img=65",
+    "banner": "https://images.unsplash.com/photo-1542751371-adc38448a05e?q=80&w=2000&auto=format&fit=crop",
+    "genre": ["Pop", "Amapiano"],
+    "bio": "Grammy-winning SA pop/R&B star known for viral hits and high-energy sets.",
+    "socials": { "x": "https://x.com/tyla", "ig": "https://instagram.com/tyla" }
+  },
+  {
+    "id": "kabza",
+    "name": "Kabza De Small",
+    "verified": true,
+    "avatar": "https://i.pravatar.cc/120?img=12",
+    "banner": "https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?q=80&w=2000&auto=format&fit=crop",
+    "genre": ["Amapiano"],
+    "bio": "The 'King of Amapiano' — prolific producer/DJ with marathon live sets.",
+    "socials": { "x": "https://x.com/kabzadesmall_", "ig": "https://instagram.com/kabza_de_small" }
+  },
+  {
+    "id": "dbn-gogo",
+    "name": "DBN Gogo",
+    "verified": true,
+    "avatar": "https://i.pravatar.cc/120?img=49",
+    "banner": "https://images.unsplash.com/photo-1483412033650-1015ddeb83d1?q=80&w=2000&auto=format&fit=crop",
+    "genre": ["Amapiano"],
+    "bio": "Festival-dominating DJ with crowd-igniting Amapiano sets.",
+    "socials": { "ig": "https://instagram.com/dbngogo" }
+  },
+  {
+    "id": "nasty-c",
+    "name": "Nasty C",
+    "verified": true,
+    "avatar": "https://i.pravatar.cc/120?img=22",
+    "banner": "https://images.unsplash.com/photo-1511379938547-c1f69419868d?q=80&w=2000&auto=format&fit=crop",
+    "genre": ["Hip-hop"],
+    "bio": "SA rap phenom with global collabs and arena tours.",
+    "socials": { "x": "https://x.com/Nasty_CSA" }
+  },
+  {
+    "id": "black-coffee",
+    "name": "Black Coffee",
+    "verified": true,
+    "avatar": "https://i.pravatar.cc/120?img=5",
+    "banner": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?q=80&w=2000&auto=format&fit=crop",
+    "genre": ["House", "Afro-house"],
+    "bio": "Grammy-winning DJ/producer; deep, global Afro-house sound.",
+    "socials": { "ig": "https://instagram.com/realblackcoffee" }
+  },
+  {
+    "id": "uncle-waffles",
+    "name": "Uncle Waffles",
+    "verified": true,
+    "avatar": "https://i.pravatar.cc/120?img=66",
+    "banner": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=2000&auto=format&fit=crop",
+    "genre": ["Amapiano"],
+    "bio": "World-touring Amapiano DJ with viral performance energy.",
+    "socials": { "ig": "https://instagram.com/unclewaffles_" }
+  },
+  {
+    "id": "dj-maphorisa",
+    "name": "DJ Maphorisa",
+    "verified": true,
+    "avatar": "https://i.pravatar.cc/120?img=23",
+    "banner": "https://images.unsplash.com/photo-1511379938547-c1f69419868d?q=80&w=2000&auto=format&fit=crop",
+    "genre": ["Amapiano", "Afrobeats"],
+    "bio": "Hit-maker producer/DJ behind many Amapiano anthems.",
+    "socials": { "ig": "https://instagram.com/djmaphorisa" }
+  },
+  {
+    "id": "young-stunna",
+    "name": "Young Stunna",
+    "verified": true,
+    "avatar": "https://i.pravatar.cc/120?img=52",
+    "banner": "https://images.unsplash.com/photo-1483412033650-1015ddeb83d1?q=80&w=2000&auto=format&fit=crop",
+    "genre": ["Amapiano"],
+    "bio": "Smooth Amapiano vocalist with multiple chart toppers."
+  },
+  {
+    "id": "kelvin-momo",
+    "name": "Kelvin Momo",
+    "verified": true,
+    "avatar": "https://i.pravatar.cc/120?img=58",
+    "banner": "https://images.unsplash.com/photo-1500989145603-8e7ef71d639e?q=80&w=2000&auto=format&fit=crop",
+    "genre": ["Amapiano"],
+    "bio": "Pioneer of soulful 'private school' Amapiano sound."
+  },
+  {
+    "id": "musa-keys",
+    "name": "Musa Keys",
+    "verified": true,
+    "avatar": "https://i.pravatar.cc/120?img=43",
+    "banner": "https://images.unsplash.com/photo-1506157786151-b8491531f063?q=80&w=2000&auto=format&fit=crop",
+    "genre": ["Amapiano"],
+    "bio": "Producer/performer known for lush, melodic piano grooves."
+  },
+  {
+    "id": "elaine",
+    "name": "Elaine",
+    "verified": true,
+    "avatar": "https://i.pravatar.cc/120?img=56",
+    "banner": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?q=80&w=2000&auto=format&fit=crop",
+    "genre": ["R&B", "Pop"],
+    "bio": "R&B songstress with platinum-selling debut."
+  },
+  {
+    "id": "ami-faku",
+    "name": "Ami Faku",
+    "verified": true,
+    "avatar": "https://i.pravatar.cc/120?img=47",
+    "banner": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?q=80&w=2000&auto=format&fit=crop",
+    "genre": ["Afro-soul"],
+    "bio": "Golden-voiced Afro-soul singer with heartfelt hits."
+  },
+  {
+    "id": "sho-madjozi",
+    "name": "Sho Madjozi",
+    "verified": true,
+    "avatar": "https://i.pravatar.cc/120?img=35",
+    "banner": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?q=80&w=2000&auto=format&fit=crop",
+    "genre": ["Rap", "Afropop"],
+    "bio": "Colorful Tsonga-inspired rapper and performer."
+  },
+  {
+    "id": "sjava",
+    "name": "Sjava",
+    "verified": true,
+    "avatar": "https://i.pravatar.cc/120?img=42",
+    "banner": "https://images.unsplash.com/photo-1519681393784-d120267933ba?q=80&w=2000&auto=format&fit=crop",
+    "genre": ["Afro-soul", "Hip-hop"],
+    "bio": "Genre-blending storyteller with rich, emotive vocals."
+  },
+  {
+    "id": "big-zulu",
+    "name": "Big Zulu",
+    "verified": true,
+    "avatar": "https://i.pravatar.cc/120?img=29",
+    "banner": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=2000&auto=format&fit=crop",
+    "genre": ["Hip-hop"],
+    "bio": "Inkabi Nation rapper with booming voice and anthems."
+  },
+  {
+    "id": "blxckie",
+    "name": "Blxckie",
+    "verified": true,
+    "avatar": "https://i.pravatar.cc/120?img=57",
+    "banner": "https://images.unsplash.com/photo-1511379938547-c1f69419868d?q=80&w=2000&auto=format&fit=crop",
+    "genre": ["Hip-hop"],
+    "bio": "Durban-born hitmaker with melodic trap flair."
+  },
+  {
+    "id": "a-reece",
+    "name": "A-Reece",
+    "verified": true,
+    "avatar": "https://i.pravatar.cc/120?img=32",
+    "banner": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?q=80&w=2000&auto=format&fit=crop",
+    "genre": ["Hip-hop"],
+    "bio": "Cult-favorite lyricist; sharp pen and tight flows."
+  },
+  {
+    "id": "cassper-nyovest",
+    "name": "Cassper Nyovest",
+    "verified": true,
+    "avatar": "https://i.pravatar.cc/120?img=27",
+    "banner": "https://images.unsplash.com/photo-1511379938547-c1f69419868d?q=80&w=2000&auto=format&fit=crop",
+    "genre": ["Hip-hop"],
+    "bio": "Arena-filling rapper/entrepreneur; hit records and big shows."
+  },
+  {
+    "id": "ko",
+    "name": "K.O",
+    "verified": true,
+    "avatar": "https://i.pravatar.cc/120?img=60",
+    "banner": "https://images.unsplash.com/photo-1526178619785-7685b12df3a1?q=80&w=2000&auto=format&fit=crop",
+    "genre": ["Hip-hop"],
+    "bio": "Veteran SA hip-hop star with radio mainstays."
+  },
+  {
+    "id": "kwesta",
+    "name": "Kwesta",
+    "verified": true,
+    "avatar": "https://i.pravatar.cc/120?img=31",
+    "banner": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=2000&auto=format&fit=crop",
+    "genre": ["Hip-hop"],
+    "bio": "Gravel-toned rapper with award-winning albums."
+  },
+  {
+    "id": "zakes-bantwini",
+    "name": "Zakes Bantwini",
+    "verified": true,
+    "avatar": "https://i.pravatar.cc/120?img=40",
+    "banner": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?q=80&w=2000&auto=format&fit=crop",
+    "genre": ["House", "Afro-house"],
+    "bio": "Grammy-winning Afro-house artist and showman."
+  },
+  {
+    "id": "sun-el-musician",
+    "name": "Sun-El Musician",
+    "verified": true,
+    "avatar": "https://i.pravatar.cc/120?img=45",
+    "banner": "https://images.unsplash.com/photo-1506157786151-b8491531f063?q=80&w=2000&auto=format&fit=crop",
+    "genre": ["House", "Afro-house"],
+    "bio": "Uplifting, melodic producer behind multiple SA radio hits."
+  },
+  {
+    "id": "master-kg",
+    "name": "Master KG",
+    "verified": true,
+    "avatar": "https://i.pravatar.cc/120?img=19",
+    "banner": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?q=80&w=2000&auto=format&fit=crop",
+    "genre": ["Afro-house"],
+    "bio": "Global dance phenomenon; creator of 'Jerusalema'."
+  },
+  {
+    "id": "makhadzi",
+    "name": "Makhadzi",
+    "verified": true,
+    "avatar": "https://i.pravatar.cc/120?img=68",
+    "banner": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?q=80&w=2000&auto=format&fit=crop",
+    "genre": ["Afropop"],
+    "bio": "Energetic stage queen blending Tshivenda and Afropop."
+  },
+  {
+    "id": "lady-du",
+    "name": "Lady Du",
+    "verified": true,
+    "avatar": "https://i.pravatar.cc/120?img=15",
+    "banner": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=2000&auto=format&fit=crop",
+    "genre": ["Amapiano"],
+    "bio": "Power-vocal Amapiano star and club favorite."
+  },
+  {
+    "id": "pabi-cooper",
+    "name": "Pabi Cooper",
+    "verified": true,
+    "avatar": "https://i.pravatar.cc/120?img=34",
+    "banner": "https://images.unsplash.com/photo-1483412033650-1015ddeb83d1?q=80&w=2000&auto=format&fit=crop",
+    "genre": ["Amapiano"],
+    "bio": "Performer and vocalist bringing catchy piano hooks."
+  },
+  {
+    "id": "dj-zinhle",
+    "name": "DJ Zinhle",
+    "verified": true,
+    "avatar": "https://i.pravatar.cc/120?img=28",
+    "banner": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?q=80&w=2000&auto=format&fit=crop",
+    "genre": ["House", "Amapiano"],
+    "bio": "Club mainstay DJ/producer with chart successes."
+  },
+  {
+    "id": "prince-kaybee",
+    "name": "Prince Kaybee",
+    "verified": true,
+    "avatar": "https://i.pravatar.cc/120?img=26",
+    "banner": "https://images.unsplash.com/photo-1506157786151-b8491531f063?q=80&w=2000&auto=format&fit=crop",
+    "genre": ["House"],
+    "bio": "Hit-making house producer with festival-scale shows."
+  },
+  {
+    "id": "msaki",
+    "name": "Msaki",
+    "verified": true,
+    "avatar": "https://i.pravatar.cc/120?img=62",
+    "banner": "https://images.unsplash.com/photo-1519681393784-d120267933ba?q=80&w=2000&auto=format&fit=crop",
+    "genre": ["Alt", "Afro-folk"],
+    "bio": "Acclaimed songwriter and ethereal vocalist."
+  },
+  {
+    "id": "mafikizolo",
+    "name": "Mafikizolo",
+    "verified": true,
+    "avatar": "https://i.pravatar.cc/120?img=20",
+    "banner": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?q=80&w=2000&auto=format&fit=crop",
+    "genre": ["Afropop"],
+    "bio": "Iconic duo with timeless Afropop anthems."
+  },
+  {
+    "id": "mi-casa",
+    "name": "Mi Casa",
+    "verified": true,
+    "avatar": "https://i.pravatar.cc/120?img=14",
+    "banner": "https://images.unsplash.com/photo-1511379938547-c1f69419868d?q=80&w=2000&auto=format&fit=crop",
+    "genre": ["House", "Pop"],
+    "bio": "Feel-good house trio blending brass, vocals, and groove."
+  },
+  {
+    "id": "jeremy-loops",
+    "name": "Jeremy Loops",
+    "verified": true,
+    "avatar": "https://i.pravatar.cc/120?img=67",
+    "banner": "https://images.unsplash.com/photo-1500989145603-8e7ef71d639e?q=80&w=2000&auto=format&fit=crop",
+    "genre": ["Alt", "Pop"],
+    "bio": "Loop-driven performer with sunny festival vibes."
+  },
+  {
+    "id": "parlotones",
+    "name": "The Parlotones",
+    "verified": true,
+    "avatar": "https://i.pravatar.cc/120?img=13",
+    "banner": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?q=80&w=2000&auto=format&fit=crop",
+    "genre": ["Rock", "Alt"],
+    "bio": "Stadium-tested SA rock band with singalong choruses."
+  },
+  {
+    "id": "prime-circle",
+    "name": "Prime Circle",
+    "verified": true,
+    "avatar": "https://i.pravatar.cc/120?img=9",
+    "banner": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=2000&auto=format&fit=crop",
+    "genre": ["Rock"],
+    "bio": "Long-running rock outfit with radio favorites."
+  },
+  {
+    "id": "nomfundo-moh",
+    "name": "Nomfundo Moh",
+    "verified": true,
+    "avatar": "https://i.pravatar.cc/120?img=35",
+    "banner": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?q=80&w=2000&auto=format&fit=crop",
+    "genre": ["Afro-soul"],
+    "bio": "Warm, modern Afro-soul voice with charting singles."
+  }
+]

@@ -1,0 +1,156 @@
+﻿[
+  {
+    "id": "brews-beers-timeout-cpt-2025-10-11",
+    "name": "Brews & Beers Fest",
+    "venue": "Time Out Market Cape Town",
+    "city": "V&A Waterfront, Cape Town",
+    "position": { "lat": -33.9057, "lng": 18.4205 },
+    "start": "2025-10-11T12:00:00+02:00",
+    "end": "2025-10-11T22:00:00+02:00",
+    "activities": ["Tastings", "Live DJs"],
+    "posterImage": "https://images.unsplash.com/photo-1541557435984-1c79685a0825?q=80&w=1200&auto=format&fit=crop"
+  },
+  {
+    "id": "taking-it-back-bedfordview-2025-10-11",
+    "name": "Taking It Back",
+    "venue": "The View Bedfordview",
+    "city": "Bedfordview, Johannesburg",
+    "position": { "lat": -26.1783, "lng": 28.1418 },
+    "start": "2025-10-11T18:00:00+02:00",
+    "end": "2025-10-12T02:00:00+02:00",
+    "activities": ["Nightlife", "VIP"],
+    "posterImage": "https://images.unsplash.com/photo-1519671482749-fd09be7ccebf?q=80&w=1200&auto=format&fit=crop"
+  },
+  {
+    "id": "deep-essentials-nest-2025-10-11",
+    "name": "Deep Town Jozi: Deep Essentials",
+    "venue": "The Nest",
+    "city": "Johannesburg",
+    "position": { "lat": -26.2041, "lng": 28.0473 },
+    "start": "2025-10-11T20:00:00+02:00",
+    "end": "2025-10-12T02:00:00+02:00",
+    "activities": ["House", "Club"],
+    "posterImage": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?q=80&w=1200&auto=format&fit=crop"
+  },
+  {
+    "id": "manyakas-open-water-munyaka-2025-10-12",
+    "name": "Munyaka Open Water Sprint Series",
+    "venue": "Munyaka Waterfall City",
+    "city": "Midrand, Johannesburg",
+    "position": { "lat": -26.0214, "lng": 28.1044 },
+    "start": "2025-10-12T08:00:00+02:00",
+    "end": "2025-10-12T13:00:00+02:00",
+    "activities": ["Outdoor"],
+    "posterImage": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?q=80&w=1200&auto=format&fit=crop"
+  },
+  {
+    "id": "house-of-house-dj-buhle-2025-10-12",
+    "name": "House of House Presents DJ Buhle",
+    "venue": "Arbour Cafe",
+    "city": "Johannesburg",
+    "position": { "lat": -26.1316, "lng": 28.0581 },
+    "start": "2025-10-12T16:00:00+02:00",
+    "end": "2025-10-12T22:00:00+02:00",
+    "activities": ["Day Party"],
+    "posterImage": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?q=80&w=1200&auto=format&fit=crop"
+  },
+  {
+    "id": "park-live-emmarentia-2025-10-18",
+    "name": "Parklive 2025",
+    "venue": "Marks Park, Emmarentia",
+    "city": "Johannesburg",
+    "position": { "lat": -26.1572, "lng": 28.0080 },
+    "start": "2025-10-18T12:00:00+02:00",
+    "end": "2025-10-18T23:00:00+02:00",
+    "activities": ["Festival", "Food & Music"],
+    "posterImage": "https://images.unsplash.com/photo-1472653816316-3ad6f10a6592?q=80&w=1200&auto=format&fit=crop"
+  },
+  {
+    "id": "sundowners-alex-orion-ct-2025-10-31",
+    "name": "Sundowners with Alex O'Rion",
+    "venue": "Rooftop on Bree",
+    "city": "Cape Town CBD",
+    "position": { "lat": -33.9191, "lng": 18.4176 },
+    "start": "2025-10-31T17:00:00+02:00",
+    "end": "2025-10-31T23:00:00+02:00",
+    "activities": ["Sunset Session", "Progressive House"],
+    "posterImage": "https://images.unsplash.com/photo-1547468238-7a5f0a3df6c3?q=80&w=1200&auto=format&fit=crop"
+  },
+  {
+    "id": "ramfest-halloween-pta-2025-11-01",
+    "name": "RAMFEST x HALLOWEEN 2025 | Pretoria",
+    "venue": "Heartfelt Arena",
+    "city": "Pretoria",
+    "position": { "lat": -25.7812, "lng": 28.2031 },
+    "start": "2025-11-01T14:00:00+02:00",
+    "end": "2025-11-01T23:59:00+02:00",
+    "activities": ["Rock", "Alt", "Electronic"],
+    "posterImage": "https://images.unsplash.com/photo-1518977676601-b53f82aba655?q=80&w=1200&auto=format&fit=crop"
+  },
+  {
+    "id": "ramfest-halloween-cpt-2025-10-31",
+    "name": "RAMFEST x HALLOWEEN 2025 | Cape Town",
+    "venue": "Terminal X",
+    "city": "Paarden Eiland, Cape Town",
+    "position": { "lat": -33.9078, "lng": 18.4705 },
+    "start": "2025-10-31T16:00:00+02:00",
+    "end": "2025-11-01T01:00:00+02:00",
+    "activities": ["Rock", "Alt"],
+    "posterImage": "https://images.unsplash.com/photo-1483356256511-b48749959172?q=80&w=1200&auto=format&fit=crop"
+  },
+  {
+    "id": "halloween-major-league-cabo-2025-10-31",
+    "name": "Halloween feat. Major League DJz",
+    "venue": "CABO Beach Club",
+    "city": "Green Point, Cape Town",
+    "position": { "lat": -33.9032, "lng": 18.4116 },
+    "start": "2025-10-31T18:00:00+02:00",
+    "end": "2025-11-01T02:00:00+02:00",
+    "activities": ["Amapiano", "Beach Club"],
+    "posterImage": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=1200&auto=format&fit=crop"
+  },
+  {
+    "id": "legacy-yard-halloween-umhlanga-2025-11-01",
+    "name": "Halloween - Dusk Till Doom",
+    "venue": "Legacy Rooftop Bar, Legacy Yard",
+    "city": "Umhlanga Arch, Durban",
+    "position": { "lat": -29.7260, "lng": 31.0850 },
+    "start": "2025-11-01T18:00:00+02:00",
+    "end": "2025-11-02T02:00:00+02:00",
+    "activities": ["Rooftop", "Nightlife"],
+    "posterImage": "https://images.unsplash.com/photo-1514516430031-43a8f36f75b0?q=80&w=1200&auto=format&fit=crop"
+  },
+  {
+    "id": "beware-bedfordview-pitbull-showcase-2025-10-31",
+    "name": "Beware Bedfordview | Pitbull Showcase",
+    "venue": "Bailey’s Live",
+    "city": "Bedfordview, Johannesburg",
+    "position": { "lat": -26.1717, "lng": 28.1375 },
+    "start": "2025-10-31T19:00:00+02:00",
+    "end": "2025-11-01T01:00:00+02:00",
+    "activities": ["Hip-hop", "Showcase"],
+    "posterImage": "https://images.unsplash.com/photo-1500989145603-8e7ef71d639e?q=80&w=1200&auto=format&fit=crop"
+  },
+  {
+    "id": "gospel-goes-classical-live-recording-2025-10-31",
+    "name": "Gospel Goes Classical — Live Recording",
+    "venue": "Carnival City, Big Top Arena",
+    "city": "Brakpan, Johannesburg",
+    "position": { "lat": -26.2411, "lng": 28.1853 },
+    "start": "2025-10-31T18:00:00+02:00",
+    "end": "2025-10-31T23:00:00+02:00",
+    "activities": ["Gospel", "Orchestral"],
+    "posterImage": "https://images.unsplash.com/photo-1459749411175-04bf5292ceea?q=80&w=1200&auto=format&fit=crop"
+  },
+  {
+    "id": "florida-road-strip-hop-2025-10-13",
+    "name": "Florida Road Strip Hop",
+    "venue": "Florida Road",
+    "city": "Durban",
+    "position": { "lat": -29.8400, "lng": 31.0167 },
+    "start": "2025-10-13T17:00:00+02:00",
+    "end": "2025-10-14T00:00:00+02:00",
+    "activities": ["Bar hopping", "Street vibes"],
+    "posterImage": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?q=80&w=1200&auto=format&fit=crop"
+  }
+]

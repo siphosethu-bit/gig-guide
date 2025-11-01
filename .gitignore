@@ -1,0 +1,32 @@
+# Node / Vite
+node_modules/
+dist/
+.env
+.env.local
+.DS_Store
+
+# Logs
+npm-debug.log*
+yarn-*.log*
+pnpm-debug.log*
+
+# Editor
+.vscode/
+.idea/
+
+# Build caches
+.cache/
+.eslintcache/
+
+# Big media (host elsewhere)
+public/video/
+*.mp4
+*.mov
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Very large non-web folders
+src/oracleJdk-25/
+gig_guide/
