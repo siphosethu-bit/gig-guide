@@ -421,7 +421,6 @@ export default function App() {
 
   return (
     <div className="min-h-screen relative text-slate-100">
-   
       {showWelcome && (
         <WelcomeIntro
           onStart={handleStart}
@@ -442,6 +441,7 @@ export default function App() {
 
       <GlamBackground img="/bg-party.jpg" />
       <LiveBackground className="fixed inset-0 -z-30 pointer-events-none" />
+
       {/* Header */}
       <header className="sticky top-0 z-50 backdrop-blur-xl bg-black/30 border-b border-white/10">
         <div className="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between">
@@ -530,6 +530,16 @@ export default function App() {
 
       {/* Main */}
       <main className="max-w-6xl mx-auto px-4 py-8 relative z-10">
+        {/* 🔹 Tagline with Amsterdam font — ONLY this line */}
+        <div className="mb-6 text-center">
+          <p
+            className="amsterdam-font text-2xl md:text-3xl tracking-wide"
+            style={{ fontFamily: "Amsterdam One, cursive" }}
+          >
+            Book the vibe. Plan the night. Arrive together
+          </p>
+        </div>
+
         {/* 🔥 BIG MAP ON TOP */}
         <div className="mb-6">
           <BigMap

@@ -1,73 +1,93 @@
 import React from "react";
-import BlurText from "./BlurText"; // 👈 make sure this file exists
+import BlurText from "./BlurText";
+import Orb from "./Orb";
 
 export default function WelcomeIntro({ onStart, onHowItWorks }) {
   return (
     <section className="relative w-full min-h-screen flex flex-col items-center justify-center text-center px-6 overflow-hidden">
-      {/* 🎥 Background Video */}
-      <video
-        autoPlay
-        muted
-        loop
-        playsInline
-        poster="/video/download (8).jpg"
-        className="absolute inset-0 w-full h-full object-cover opacity-40 blur-[3px] scale-105"
+      {/* Orb background animation */}
+      <div
+        className="absolute inset-0 z-0 opacity-70 animate-pulse-scale"
+        style={{
+          animation: "pulseScale 6s ease-in-out infinite",
+          transformOrigin: "center center",
+        }}
       >
-        <source src="/video/1692701-uhd_3840_2160_30fps.mp4" type="video/mp4" />
-        Your browser does not support the video tag.
-      </video>
+        <Orb
+          hue={360}
+          hoverIntensity={0.3}
+          rotateOnHover={true}
+          forceHoverState={false}
+        />
+      </div>
 
-      {/* 🌌 Aurora Gradient Overlay */}
-      <div className="absolute inset-0 bg-gradient-to-b from-black/70 via-black/40 to-black/80"></div>
+      {/* Background gradient overlay */}
+      <div className="absolute inset-0 bg-gradient-to-b from-black/40 via-black/25 to-black/70 z-10" />
 
-      {/* ⭐ Foreground Content */}
-      <div className="relative z-10 max-w-4xl mx-auto">
-        <p className="text-sm font-medium text-yellow-400 mb-2">
-          New • SA Gig Guide
-        </p>
-
-        {/* Animated Headline with COLORS */}
-        <h1 className="text-4xl sm:text-6xl font-extrabold text-white leading-tight">
+      {/* Foreground content */}
+      <div
+        className="relative z-20 max-w-4xl mx-auto flex flex-col items-center text-center justify-between"
+        style={{ minHeight: "80vh" }}
+      >
+        {/* Subheading */}
+        <p
+          className="amboera-font text-sky-400 mt-0 mb-8"
+          style={{ fontSize: "3rem" }}
+        >
           <BlurText
-            text={
-              <>
-                Book <span className="text-pink-400">the vibe.</span>{" "}
-                <span className="text-yellow-400">Plan</span> the night.{" "}
-                <span className="text-purple-400">Arrive</span> together.
-              </>
-            }
-            delay={150}
             animateBy="words"
-            direction="top"
-            className="inline-block"
-          />
-        </h1>
-
-        {/* Animated Subtext */}
-        <p className="mt-4 text-lg text-gray-200 max-w-2xl mx-auto">
-          <BlurText
-            text="Browse events by genre and budget, preview the area, set one-tap reminders, and split costs with your crew all in one place."
-            delay={650}
-            animateBy="words"
+            text="Where to.. Next?"
             direction="bottom"
             className="inline-block"
           />
         </p>
 
-        {/* CTA Buttons */}
-        <div className="mt-6 flex flex-wrap justify-center gap-4">
-          <button
-            onClick={() => onStart?.({ openRoleGate: true })}
-            className="px-6 py-3 rounded-full bg-white/90 text-gray-900 font-semibold shadow-md hover:bg-white transition"
+        {/* Title — Amsterdam font */}
+        <h1
+          className="amsterdam-font text-sky-400 leading-none mb-12"
+          style={{
+            fontSize: "12rem",
+            lineHeight: "0.9",
+            letterSpacing: "1px",
+          }}
+        >
+          <BlurText
+            animateBy="words"
+            text="lé Vibe"
+            direction="bottom"
+            className="inline-block"
+          />
+        </h1>
+
+        {/* Description + Buttons */}
+        <div className="flex flex-col items-center gap-6 mt-4 scale-90">
+          <p
+            className="text-base sm:text-lg text-gray-200 max-w-xl mx-auto leading-relaxed opacity-90"
+            style={{ fontWeight: 300 }}
           >
-            Get started
-          </button>
-          <button
-            onClick={() => onHowItWorks?.()}
-            className="px-6 py-3 rounded-full bg-gray-800/60 text-white font-semibold shadow-md hover:bg-gray-700/70 transition"
-          >
-            How it works
-          </button>
+            <BlurText
+              text="Browse events by genre and budget, preview the area, set one-tap reminders, and split costs with your crew all in one place."
+              animateBy="words"
+              direction="bottom"
+              className="inline-block"
+            />
+          </p>
+
+          {/* Buttons */}
+          <div className="flex flex-wrap justify-center gap-4 mt-3">
+            <button
+              onClick={() => onStart?.({ openRoleGate: true })}
+              className="px-7 py-3 rounded-full bg-white/90 text-gray-900 font-semibold text-base shadow-md hover:bg-white transition"
+            >
+              Get started
+            </button>
+            <button
+              onClick={() => onHowItWorks?.()}
+              className="px-7 py-3 rounded-full bg-gray-800/60 text-white font-semibold text-base shadow-md hover:bg-gray-700/70 transition"
+            >
+              How it works
+            </button>
+          </div>
         </div>
       </div>
     </section>
